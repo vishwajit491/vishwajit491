@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 👋 Hi, I'm **Vishwajit Hulawale**
 
@@ -9,11 +9,11 @@
 🐧 Linux & SSH Administration
 🔧 Interested in Cloud, DevOps & Infrastructure Automation
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=FOLLOWERS&style=flat&color=1f6feb)](https://github.com/YOUR_GITHUB_USERNAME?tab=followers)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishwajit491&label=PROFILE%20VIEWS&color=0e75b6&style=flat)](https://github.com/vishwajit491)
+[![Followers](https://img.shields.io/github/followers/vishwajit491?label=FOLLOWERS&style=flat&color=1f6feb)](https://github.com/vishwajit491?tab=followers)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishwajit491)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[](YOUR_LINKEDIN_LINK)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)[vishwajit Hulawale](https://www.linkedin.com/in/vishwajit-hulawale-88051b434/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
 
 </div>
@@ -114,17 +114,17 @@ Seeking opportunities to apply my AWS and Cloud skills through internships and p
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwajit491&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajit491&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishwajit491&theme=tokyonight&hide_border=true)
 
 </div>
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/vishwajit-hulawale-88051b434/
+- LinkedIn: [Vishwajit Hulawale](https://www.linkedin.com/in/vishwajit-hulawale-88051b434/)
 
 - Portfolio: [My Portfolio]
 
@@ -133,3 +133,5 @@ Seeking opportunities to apply my AWS and Cloud skills through internships and p
 ### Thanks for visiting my profile!
 
 </div>
+
+
